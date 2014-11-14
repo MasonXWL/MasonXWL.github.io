@@ -2,7 +2,7 @@ body {
   color: #333;
   background: url(../img/background2.jpg);
   font-size: 16px;
-  font-family: "Georgia", sans-serif;
+  font-family: 'Droid Sans', sans-serif;
   line-height: 1.5;
 }
 
@@ -17,14 +17,14 @@ body {
 
 
 h1 {
-  font-family: 'Helvetica', sans-serif;
+  font-family: 'Oswald', sans-serif;
   color: red;
   font-size: 300%;
   text-align: center;
 }
 
 h2 {
-  font-family: 'Helvetica', sans-serif;
+  font-family: 'Oswald', sans-serif;
   color: red;
   font-size: 175%;
   text-align: center;
@@ -32,13 +32,13 @@ h2 {
 
 
 h3 {
-    font-family: 'Helvetica', sans-serif;
+    font-family: 'Oswald', sans-serif;
     color: black;
     font-size: 150%;
 }
 
 h4 {
-    font-family: 'Helvetica', sans-serif;
+    font-family: 'Oswald', sans-serif;
     color: black;
     font-size: 100%;
 }
